@@ -24,8 +24,7 @@
   <u>este texto ficara sublinhado</u>
 
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex doloribus aspernatur ipsum rerum dolores doloremque cupiditate excepturi eveniet ullam similique, reiciendis temporibus deserunt, animi amet! Qui <i><b>corrupti</b></i> voluptatem repellat consectetur?</p>
-  <!--aqui acaba os codigos de texto-->
-<!--aqui começa as tags css-->
+
 <html lang="pt-br">
 
 <head>
